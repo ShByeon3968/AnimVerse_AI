@@ -1,0 +1,10 @@
+dataset:
+  train_dir: ./data/train
+  val_dir: ./data/val
+  img_size: 256
+
+train:
+  batch_size: 16
+  epochs: 200
+  lr: 0.0002
+  save_path: ./checkpoints/
