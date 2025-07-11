@@ -1,1 +1,0 @@
-# AnimVerse AI
