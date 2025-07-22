@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\source\\automesh2rig\\private\\automesh2rigeditormodecommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bsh\\animverse_ai\\animverse\\intermediate\\build\\win64\\x64\\animverseeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\automesh2rig\\definitions.automesh2rig.h",
+            "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\source\\automesh2rig\\public\\automesh2rigeditormodecommands.h",
+            "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\source\\automesh2rig\\public\\automesh2rigeditormode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\uedmode.generated.h",
+            "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\intermediate\\build\\win64\\unrealeditor\\inc\\automesh2rig\\uht\\automesh2rigeditormode.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\editorstyle\\public\\editorstyleset.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

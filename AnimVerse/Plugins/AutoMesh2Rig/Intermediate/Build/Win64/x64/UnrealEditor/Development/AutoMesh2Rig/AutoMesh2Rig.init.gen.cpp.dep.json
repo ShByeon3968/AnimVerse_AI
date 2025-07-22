@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\intermediate\\build\\win64\\unrealeditor\\inc\\automesh2rig\\uht\\automesh2rig.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bsh\\animverse_ai\\animverse\\intermediate\\build\\win64\\x64\\animverseeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\bsh\\animverse_ai\\animverse\\plugins\\automesh2rig\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\automesh2rig\\definitions.automesh2rig.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
